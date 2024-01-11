@@ -6,7 +6,8 @@ module.exports = defineConfig({
       // implement node event listeners here
       
     },
-  baseUrl: "https://jsonplaceholder.typicode.com",
+    baseUrl: "https://jsonplaceholder.typicode.com",
+   // baseUrl: "https://restful-booker.herokuapp.com"
   
   },
 
