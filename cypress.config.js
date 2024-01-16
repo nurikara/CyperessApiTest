@@ -9,8 +9,8 @@ module.exports = defineConfig({
    
       //  baseUrl: "http://gorest.co.in",
      //   baseUrl: "https://jsonplaceholder.typicode.com",
-      // baseUrl: "https://restful-booker.herokuapp.com"
-          baseUrl: "https://dummy.restapiexample.com"
+       baseUrl: "https://restful-booker.herokuapp.com"
+        //  baseUrl: "https://dummy.restapiexample.com"
   
   },
 
