@@ -1,0 +1,10 @@
+{
+   "total": 3150,
+    "pages": 315,
+    "page": 1,
+    "limit": 10,
+    "links": {
+        "previous": null,
+        "current": "https://gorest.co.in/public/v1/users?page=1",
+        "next": "https://gorest.co.in/public/v1/users?page=2"
+  }}
